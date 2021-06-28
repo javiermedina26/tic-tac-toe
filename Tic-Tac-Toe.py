@@ -5,7 +5,7 @@ import os
     Here you can see Handling List, Dictionary, Functions, Package and Loops'''
 
 def ClearScreen():
-    os.system('cls')
+    os.system('cls') #if you run on windows
 
 TicTac = ['1', '2', '3', '4', '5', '6', '7', '8', '9']
 
